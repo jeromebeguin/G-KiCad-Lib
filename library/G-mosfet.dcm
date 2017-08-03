@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DMG6602SVTQ
+D 30V Vds N-Channel P-Channel MOSFET TSOT26
+K 30V Vds N-Channel P-Channel MOSFET TSOT26
+F https://www.diodes.com/assets/Datasheets/DMG6602SVT.pdf
+$ENDCMP
+#
+#End Doc Library
