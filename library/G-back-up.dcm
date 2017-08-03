@@ -1,0 +1,157 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP +2V8
+K POWER, PWR
+$ENDCMP
+#
+$CMP 24AA02
+D I2C Serial EEPROM, 2kb
+K I2C Serial EEPROM
+F http://ww1.microchip.com/downloads/en/DeviceDoc/22124D.pdf
+$ENDCMP
+#
+$CMP ATAES132A
+D 32K AES Serial EEPROM Memory
+K 32K AES Serial EEPROM Memory
+F http://www.atmel.com/Images/Atmel-8914-CryptoAuth-ATAES132A-Datasheet.pdf
+$ENDCMP
+#
+$CMP BAT54A
+D schottky barrier diode
+K schottky diode
+F http://www.diodes.com/_files/datasheets/ds11005.pdf
+$ENDCMP
+#
+$CMP CSD19537Q3
+D NexFET N-Channel Power MOSFET, Vds 100V, Rdson 13mOhm, Id 50A, Qg Typ 16.0nC, VSON8 3.3x3.3mm
+K NexFET Power MOSFET N-MOS
+F C:/Users/Gamaya/Documents/CloudStation/Doc/datasheet/Gamaya Datasheet Library/Transistor/csd19537q3.pdf
+$ENDCMP
+#
+$CMP IP3319CX6
+D Single channel common mode filter with integrated ESD protection network
+K common mode filter ESD protection
+F http://www.nxp.com/documents/data_sheet/IP3319CX6.pdf
+$ENDCMP
+#
+$CMP LM5175PWP
+D 42-V wide Vin synchronous 4-switch Buck-Boost controller, HTSSOP-28 package
+K Buck Boost step-up step-down
+F http://www.ti.com/lit/ds/symlink/lm5175.pdf
+$ENDCMP
+#
+$CMP LM5175RHF
+D 42-V wide Vin synchronous 4-switch Buck-Boost controller, QFN-28 package
+K Buck Boost step-up step-down
+F http://www.ti.com/lit/ds/symlink/lm5175.pdf
+$ENDCMP
+#
+$CMP LM73
+D 11 to 14 Bit digital temperature sensor with 2 wire interface
+K digital temperature sensor
+F http://www.ti.com/lit/ds/symlink/lm73.pdf
+$ENDCMP
+#
+$CMP LM73-1
+D 11 to 14 Bit digital temperature sensor with 2 wire interface
+K digital temperature sensor
+F http://www.ti.com/lit/ds/symlink/lm73.pdf
+$ENDCMP
+#
+$CMP Micro_SD_Card_Det
+D Micro SD Card Socket with card detection pins
+K connector SD microsd
+F https://www.hirose.com/product/en/download_file/key_name/DM3/category/Catalog/doc_file_id/49662/?file_category_id=4&item_id=195&is_series=1
+$ENDCMP
+#
+$CMP Micro_SD_Card_Det_Hirose_DM3AT
+D Micro SD Card Socket with card detection pins
+K connector SD microsd
+F https://www.hirose.com/product/en/download_file/key_name/DM3/category/Catalog/doc_file_id/49662/?file_category_id=4&item_id=195&is_series=1
+$ENDCMP
+#
+$CMP PCA9306
+D Dual bidirectional I2C Bus and SMBus voltage level translator
+K Dual bidirectional I2C Bus and SMBus voltage level translator
+F http://www.ti.com/lit/ds/symlink/pca9306.pdf
+$ENDCMP
+#
+$CMP RV3C002UN
+D 20V Vds, 0.15A Id, N-Channel MOSFET, DFN0604
+K N-Channel MOSFET Logic Level
+F http://rohmfs.rohm.com/en/products/databook/datasheet/discrete/transistor/mosfet/rv3c002unt2cl-e.pdf
+$ENDCMP
+#
+$CMP TLC5973
+D 3 Channel 12bit PWM constant currend LED Driver with single wire interface
+K LED current driver 12bit PWM
+F http://www.ti.com/lit/ds/symlink/tlc5973.pdf
+$ENDCMP
+#
+$CMP TPD2EUSB30
+D 2 channel ESD protection for super-speed USB 3.0
+K ESD protection USB 3.0
+F http://www.ti.com/lit/ds/symlink/tpd2eusb30a.pdf
+$ENDCMP
+#
+$CMP TPD4EUSB30
+D 4 channel ESD protection for super-speed USB 3.0
+K ESD protection USB 3.0
+F http://www.ti.com/lit/ds/symlink/tpd2eusb30a.pdf
+$ENDCMP
+#
+$CMP TPD8F003
+D 8 channel EMI filters with integrated ESD protection
+K EMI, ESD protection
+F http://www.ti.com/lit/ds/symlink/tpd6f003.pdf
+$ENDCMP
+#
+$CMP TPS2560
+D TPS2560, dual channel precision adjustable current-limited power switches
+K power switche, current limited, usb port
+F http://www.ti.com/lit/ds/symlink/tps2560.pdf
+$ENDCMP
+#
+$CMP TPS2561
+D TPS2561, dual channel precision adjustable current-limited power switches
+K power switche, current limited, usb port
+F http://www.ti.com/lit/ds/symlink/tps2561.pdf
+$ENDCMP
+#
+$CMP TPS62130
+D 3-17V 3A Step-down converter in 3x3 QFN package adjustable ouput
+K step-down dcdc converter adjustable ouput
+F http://www.ti.com/lit/ds/symlink/tps62130.pdf
+$ENDCMP
+#
+$CMP TPS62131
+D 3-17V 3A Step-down converter in 3x3 QFN package 1.8V ouput
+K step-down dcdc converter 1.8V ouput
+F http://www.ti.com/lit/ds/symlink/tps62130.pdf
+$ENDCMP
+#
+$CMP TPS62132
+D 3-17V 3A Step-down converter in 3x3 QFN package 3.3V ouput
+K step-down dcdc converter 3.3V ouput
+F http://www.ti.com/lit/ds/symlink/tps62130.pdf
+$ENDCMP
+#
+$CMP TPS62133
+D 3-17V 3A Step-down converter in 3x3 QFN package 5V ouput
+K step-down dcdc converter 5V ouput
+F http://www.ti.com/lit/ds/symlink/tps62130.pdf
+$ENDCMP
+#
+$CMP TUSB4041I
+D four port USB 2.0 Hub
+K USB2.0 hub
+F http://www.ti.com/lit/ds/symlink/tusb4041i.pdf
+$ENDCMP
+#
+$CMP TXB0108DQSR
+D 8-bit bidirectional voltage level translator with auto-direction sensing USON package
+K bidirectional voltage level translator
+F http://www.ti.com/lit/ds/symlink/txb0108.pdf
+$ENDCMP
+#
+#End Doc Library
