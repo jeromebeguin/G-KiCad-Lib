@@ -1,0 +1,102 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADM3101E-ACPZ
+D +/- 15kV ESD Protected 3.3V single channel RS-232 Line Driver Receiver
+K +/- 15kV ESD Protected 3.3V single channel RS-232 Line Driver Receiver
+F http://www.analog.com/media/en/technical-documentation/data-sheets/ADM3101E.pdf
+$ENDCMP
+#
+$CMP DMC2990UDJ
+D Complementary pair enhancement mode MOSFET SOT963
+K Complementary pair enhancement mode MOSFET SOT963
+F https://www.diodes.com/assets/Datasheets/DMC2990UDJ.pdf
+$ENDCMP
+#
+$CMP DMG6602SVTQ
+D 30V Vds N-Channel P-Channel MOSFET TSOT26
+K 30V Vds N-Channel P-Channel MOSFET TSOT26
+F https://www.diodes.com/assets/Datasheets/DMG6602SVT.pdf
+$ENDCMP
+#
+$CMP ESD_1ch_bid
+D ESD suppressor bidirectional 1 channel
+K ESD suppressor bidirectional 1 channel
+$ENDCMP
+#
+$CMP Flir_LEPTON
+D LWIR camera 8 to 14um 80x60 pixel
+K LWIR camera
+F https://cdn.sparkfun.com/datasheets/Sensors/Infrared/FLIR_Lepton_Data_Brief.pdf
+$ENDCMP
+#
+$CMP IRLML6344TRPbF
+D 30V N-Channel MOSFET SOT-23
+K 30V N-Channel MOSFET SOT-23
+F http://www.infineon.com/dgdl/irlml6344pbf.pdf?fileId=5546d462533600a4015356689c44262c
+$ENDCMP
+#
+$CMP MIC2039-AYMT
+D High-accuracy high-side adjustable current limit power switch
+K High-accuracy high-side adjustable current limit power switch
+F http://ww1.microchip.com/downloads/en/DeviceDoc/MIC2039.pdf
+$ENDCMP
+#
+$CMP PCMF2DFN1
+D Common-mode EMI filter for diffential channels with integrated ESD protection
+K EMI filter ESD protection
+F http://www.nxp.com/documents/data_sheet/PCMF2DFN1_PCMF3DFN1.pdf
+$ENDCMP
+#
+$CMP PCMF3DFN1
+D Common-mode EMI filter for diffential channels with integrated ESD protection
+K EMI filter ESD protection
+F http://www.nxp.com/documents/data_sheet/PCMF2DFN1_PCMF3DFN1.pdf
+$ENDCMP
+#
+$CMP RV3C002UN
+D 20V Vds, 0.15A Id, N-Channel MOSFET, DFN0604
+K N-Channel MOSFET Logic Level
+F http://rohmfs.rohm.com/en/products/databook/datasheet/discrete/transistor/mosfet/rv3c002unt2cl-e.pdf
+$ENDCMP
+#
+$CMP TPD4EUSB30
+D 4 channel ESD protection for super-speed USB 3.0
+K ESD protection USB 3.0
+F http://www.ti.com/lit/ds/symlink/tpd2eusb30a.pdf
+$ENDCMP
+#
+$CMP TPS73701DRV
+D 1A low-dropout (LDO) regulator with reverse current protection
+K 1A low-dropout (LDO) regulator with reverse current protection
+F http://www.ti.com/lit/ds/symlink/tps737.pdf
+$ENDCMP
+#
+$CMP TSV911
+D Single Op amp, rail-to-rail, 8MHz, SOT23-5
+K opamp, rail-to-rail
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/68/e5/70/49/1a/0d/47/dd/CD00127596.pdf/files/CD00127596.pdf/jcr:content/translations/en.CD00127596.pdf
+$ENDCMP
+#
+$CMP TXB0108DQSR
+D 8-bit bidirectional voltage level translator with auto-direction sensing USON package
+K bidirectional voltage level translator
+F http://www.ti.com/lit/ds/symlink/txb0108.pdf
+$ENDCMP
+#
+$CMP USB-3.0_A
+D USB 3.0 Type A connector
+K connector USB 3.0 USB_A
+$ENDCMP
+#
+$CMP USB-3.0_B
+D USB 3.0 Type B connector
+K connector USB 3.0 USB_B
+$ENDCMP
+#
+$CMP XR20M1172
+D 2 channel I2C/SPI UART with 64 Byte FIFO
+K 2 channel I2C/SPI UART with 64 Byte FIFO
+F https://www.exar.com/content/document.ashx?id=1407
+$ENDCMP
+#
+#End Doc Library

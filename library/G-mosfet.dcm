@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DMC2990UDJ
+D Complementary pair enhancement mode MOSFET SOT963
+K Complementary pair enhancement mode MOSFET SOT963
+F https://www.diodes.com/assets/Datasheets/DMC2990UDJ.pdf
+$ENDCMP
+#
+$CMP DMG6602SVTQ
+D 30V Vds N-Channel P-Channel MOSFET TSOT26
+K 30V Vds N-Channel P-Channel MOSFET TSOT26
+F https://www.diodes.com/assets/Datasheets/DMG6602SVT.pdf
+$ENDCMP
+#
+$CMP IRLML6344TRPbF
+D 30V N-Channel MOSFET SOT-23
+K 30V N-Channel MOSFET SOT-23
+F http://www.infineon.com/dgdl/irlml6344pbf.pdf?fileId=5546d462533600a4015356689c44262c
+$ENDCMP
+#
+#End Doc Library

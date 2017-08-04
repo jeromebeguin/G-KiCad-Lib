@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP C12880MA
+D Micro spectrometer 340 to 850nm resolution 15nm
+K spectrometer
+F http://www.hamamatsu.com/resources/pdf/ssd/c12880ma_kacc1226e.pdf
+$ENDCMP
+#
+#End Doc Library
