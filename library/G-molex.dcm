@@ -1,0 +1,59 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CONN_01X04
+D Connector, single row, 01x04, pin header
+K connector
+$ENDCMP
+#
+$CMP CONN_01X05
+D Connector, single row, 01x05, pin header
+K connector
+$ENDCMP
+#
+$CMP CONN_01X07
+D Connector, single row, 01x07, pin header
+K connector
+$ENDCMP
+#
+$CMP CONN_01X09
+D Connector, single row, 01x09, pin header
+K connector
+$ENDCMP
+#
+$CMP CONN_01X11
+D Connector, single row, 01x11, pin header
+K connector
+$ENDCMP
+#
+$CMP CONN_01X15
+D Connector, single row, 01x15, pin header
+K connector
+$ENDCMP
+#
+$CMP CONN_01X33
+D Connector, single row, 01x33, pin header
+K connector
+$ENDCMP
+#
+$CMP CONN_02X05
+D Connector, double row, 02x05, pin header
+K connector
+$ENDCMP
+#
+$CMP CONN_02X07
+D Connector, double row, 02x07, pin header
+K connector
+$ENDCMP
+#
+$CMP CONN_02X08
+D Connector, double row, 02x08, pin header
+K connector
+$ENDCMP
+#
+$CMP USB3_A
+D USB 3.0 A connector
+K usb universal serial bus
+F ~
+$ENDCMP
+#
+#End Doc Library
