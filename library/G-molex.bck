@@ -1,10 +1,5 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP CONN_01X01
-D Connector, single row, 01x01
-K connector
-$ENDCMP
-#
 $CMP CONN_01X04
 D Connector, single row, 01x04, pin header
 K connector
@@ -59,6 +54,17 @@ $CMP USB3_A
 D USB 3.0 A connector
 K usb universal serial bus
 F ~
+$ENDCMP
+#
+$CMP USB3_B
+D USB 3.0 B connector
+K usb universal serial bus
+F ~
+$ENDCMP
+#
+$CMP USB_A
+D USB Type A connector
+K connector USB
 $ENDCMP
 #
 #End Doc Library

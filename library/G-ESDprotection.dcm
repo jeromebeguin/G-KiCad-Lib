@@ -1,5 +1,16 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ESD_1ch_bid
+D ESD suppressor bidirectional 1 channel
+K ESD suppressor bidirectional 1 channel
+$ENDCMP
+#
+$CMP IP3319CX6
+D Single channel common mode filter with integrated ESD protection network
+K common mode filter ESD protection
+F http://www.nxp.com/documents/data_sheet/IP3319CX6.pdf
+$ENDCMP
+#
 $CMP TPD2EUSB30
 D 2-Channel ESD Protection for Super-Speed USB 3.0 Interface, DRT-3
 K ESD protection USB 3.0
@@ -10,6 +21,18 @@ $CMP TPD2EUSB30A
 D 2-Channel ESD Protection for Super-Speed USB 3.0 Interface, DRT-3
 K ESD protection USB 3.0
 F http://www.ti.com/lit/ds/symlink/tpd2eusb30a.pdf
+$ENDCMP
+#
+$CMP TPD4EUSB30
+D 4-Channel ESD Protection for Super-Speed USB 3.0 Interface, USON-10
+K ESD protection USB 3.0
+F http://www.ti.com/lit/ds/symlink/tpd2eusb30a.pdf
+$ENDCMP
+#
+$CMP TPD8F003
+D 8 channel EMI filters with integrated ESD protection
+K EMI, ESD protection
+F http://www.ti.com/lit/ds/symlink/tpd6f003.pdf
 $ENDCMP
 #
 #End Doc Library
