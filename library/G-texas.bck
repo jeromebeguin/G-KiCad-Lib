@@ -36,6 +36,12 @@ K Miniature Step-Up Boost Flyback SEPIC Voltage Regulator
 F http://www.ti.com/lit/ds/symlink/lm2735.pdf
 $ENDCMP
 #
+$CMP LM5175PWP
+D 42-V wide Vin synchronous 4-switch Buck-Boost controller, HTSSOP-28 package
+K Buck Boost step-up step-down
+F http://www.ti.com/lit/ds/symlink/lm5175.pdf
+$ENDCMP
+#
 $CMP LM5175RHF
 D 42-V wide Vin synchronous 4-switch Buck-Boost controller, QFN-28 package
 K Buck Boost step-up step-down
@@ -82,6 +88,18 @@ $CMP TLC5973
 D 3 Channel 12bit PWM constant currend LED Driver with single wire interface
 K LED current driver 12bit PWM
 F http://www.ti.com/lit/ds/symlink/tlc5973.pdf
+$ENDCMP
+#
+$CMP TPD2EUSB30
+D 2-Channel ESD Protection for Super-Speed USB 3.0 Interface, DRT-3
+K ESD protection USB 3.0
+F http://www.ti.com/lit/ds/symlink/tpd2eusb30a.pdf
+$ENDCMP
+#
+$CMP TPD2EUSB30A
+D 2-Channel ESD Protection for Super-Speed USB 3.0 Interface, DRT-3
+K ESD protection USB 3.0
+F http://www.ti.com/lit/ds/symlink/tpd2eusb30a.pdf
 $ENDCMP
 #
 $CMP TPD8F003
