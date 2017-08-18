@@ -108,6 +108,12 @@ K EMI, ESD protection
 F http://www.ti.com/lit/ds/symlink/tpd6f003.pdf
 $ENDCMP
 #
+$CMP TPS2560
+D Dual channel precision adjustable current-limited power switches
+K power switche current limited usb port
+F http://www.ti.com/lit/ds/symlink/tps2560.pdf
+$ENDCMP
+#
 $CMP TPS2561
 D Dual channel precision adjustable current-limited power switches
 K power switche current limited usb port

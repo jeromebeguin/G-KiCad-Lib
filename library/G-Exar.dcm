@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP XR20M1172
+D 2 channel I2C/SPI UART with 64 Byte FIFO
+K 2 channel I2C/SPI UART with 64 Byte FIFO
+F https://www.exar.com/content/document.ashx?id=1407
+$ENDCMP
+#
+#End Doc Library
