@@ -78,6 +78,12 @@ K Miniature Step-Up Boost Voltage Regulator
 F http://www.ti.com/lit/ds/symlink/lmr64010.pdf
 $ENDCMP
 #
+$CMP LP5521YQ
+D Three chanel RGBLed driver with internal memory and integrated charge pump
+K Driver LED RGB RGBW Texas
+F http://www.ti.com/lit/ds/symlink/lp5521.pdf
+$ENDCMP
+#
 $CMP PCA9306
 D Dual bidirectional I2C Bus and SMBus voltage level translator
 K Dual bidirectional I2C Bus and SMBus voltage level translator
