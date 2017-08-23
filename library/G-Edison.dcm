@@ -1,3 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP EDISON_CONNECTOR_FULLMOUNTING_HOLES
+D Intel Edison connector 
+K Intel edison CPU
+$ENDCMP
+#
 #End Doc Library

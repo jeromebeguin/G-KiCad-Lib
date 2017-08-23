@@ -144,9 +144,21 @@ K step-down dcdc converter
 F http://www.ti.com/lit/ds/symlink/tps62130.pdf
 $ENDCMP
 #
+$CMP TPS62131
+D 3-17V 3A to 1.8V Step-down converter in 3x3 QFN package
+K step-down dcdc converter
+F http://www.ti.com/lit/ds/symlink/tps62130.pdf
+$ENDCMP
+#
 $CMP TPS62132
-D 3-17V, 3A step-down converter
+D 3-17V 3A to 3.3V Step-down converter in 3x3 QFN package
 K step down dcdc converter
+F http://www.ti.com/lit/ds/symlink/tps62130.pdf
+$ENDCMP
+#
+$CMP TPS62133
+D 3-17V 3A to 5V Step-down converter in 3x3 QFN package
+K step-down dcdc converter
 F http://www.ti.com/lit/ds/symlink/tps62130.pdf
 $ENDCMP
 #
