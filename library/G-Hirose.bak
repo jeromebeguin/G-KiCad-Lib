@@ -30,8 +30,8 @@ ENDDEF
 #
 DEF Hiosre_SD_Card J 0 40 Y Y 1 F N
 F0 "J" -650 550 50 H V C CNN
-F1 "Hiosre_SD_Card" 600 600 50 H V C CNN
-F2 "G-Connectors_Hirose:SD_Card_Receptacle_Hirose_DM1AA-SF-PEJ" 450 -600 50 H I C CNN
+F1 "Hiosre_SD_Card" 600 -550 50 H V C CNN
+F2 "DM1AA-SF-PEJ" 200 350 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  SD_Card_Receptacle

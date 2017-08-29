@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Hiosre_SD_Card
+D SD Card Reader
+K connector SD Hirose
+F http://www.mouser.com/ds/2/185/DM1_catalog-939166.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,3 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP EDISON_CONNECTOR_FULLMOUNTING_HOLES
+D Intel Edison Fullmounting holes
+K Intel processor edison
+F https://www.intel.com/content/dam/support/us/en/documents/edison/sb/edison-module_HG_331189.pdf
+$ENDCMP
+#
 #End Doc Library

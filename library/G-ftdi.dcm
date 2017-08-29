@@ -6,4 +6,10 @@ K USB Serial
 F http://www.ftdichip.com/Products/ICs/FT232RL.htm
 $ENDCMP
 #
+$CMP FT234XD
+D USB to UART IC
+K USB UART FTDI 
+F http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT234XD.pdf
+$ENDCMP
+#
 #End Doc Library

@@ -5,10 +5,6 @@ D Samsung, Artik10 module
 F C:/Users/Gamaya/Documents/CloudStation/Doc/datasheet/Artik/HW_Datasheet_ARTIK-1020_V1.10.pdf
 $ENDCMP
 #
-$CMP EDISON_CONNECTOR_FULLMOUNTING_HOLES
-F https://www.intel.com/content/dam/support/us/en/documents/edison/sb/edison-module_HG_331189.pdf
-$ENDCMP
-#
 $CMP TP
 D test point
 K test point TP
