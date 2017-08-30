@@ -2598,6 +2598,18 @@ K NPN High Voltage Transistor SMD
 F http://www.fairchildsemi.com/ds/MP/MPSA42.pdf
 $ENDCMP
 #
+$CMP RE1C002UN
+D Nch 20V 200mA Small Signal MOSFET
+K MOS MOSFET signal transistor
+F http://www.rohm.com/web/global/datasheet/RE1C002UN/re1c002untcl-e
+$ENDCMP
+#
+$CMP RV3C002UN
+D Nch 20V 150mA Small Signal MOSFET
+K MOS MOSFET signal transistor
+F http://rohmfs.rohm.com/en/products/databook/datasheet/discrete/transistor/mosfet/rv3c002unt2cl-e.pdf
+$ENDCMP
+#
 $CMP S8050
 D 20V Vce, 0.7A Ic, NPN, Low Voltage High Current Transistor, TO-92
 K S8050 NPN Low Voltage High Current Transistor
