@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP Flir_LEPTON
+D LWIR camera 8 to 14um 80x60 pixel
+K LWIR camera
+F https://cdn.sparkfun.com/datasheets/Sensors/Infrared/FLIR_Lepton_Data_Brief.pdf
+$ENDCMP
+#
 $CMP LM73
 D 11 to 14 Bit digital temperature sensor with 2 wire interface, SOT23-6
 K digital temperature sensor
