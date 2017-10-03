@@ -5,4 +5,10 @@ D Three pin crystal (GND on pin 3), e.g. in SMD package
 K quartz ceramic resonator oscillator
 $ENDCMP
 #
+$CMP Oscillator
+D Low power Precision CMOS OScillator
+K Osccillator CMOS Micrel
+F http://www.mouser.com/ds/2/268/dsc1001%20datasheet%20mkqbpd05061001-9-967557.pdf
+$ENDCMP
+#
 #End Doc Library

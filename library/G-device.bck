@@ -51,6 +51,16 @@ D Unpolarized capacitor
 K cap capacitor
 $ENDCMP
 #
+$CMP CONN_01X01
+D Connector, single row, 01x01
+K connector
+$ENDCMP
+#
+$CMP CONN_01X04
+D Connector, single row, 01x04, pin header
+K connector
+$ENDCMP
+#
 $CMP CP
 D Polarised capacitor
 K cap capacitor

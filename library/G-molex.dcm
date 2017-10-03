@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP CONN_01X02
+D Connector, single row, 01x04
+K connector
+$ENDCMP
+#
 $CMP CONN_01X04
 D Connector, single row, 01x04, pin header
 K connector
@@ -15,6 +20,11 @@ D Connector, single row, 01x07, pin header
 K connector
 $ENDCMP
 #
+$CMP CONN_01X08
+D Connector, single row, 01x09
+K connector
+$ENDCMP
+#
 $CMP CONN_01X09
 D Connector, single row, 01x09, pin header
 K connector
@@ -27,6 +37,11 @@ $ENDCMP
 #
 $CMP CONN_01X15
 D Connector, single row, 01x15, pin header
+K connector
+$ENDCMP
+#
+$CMP CONN_01X32
+D Connector, single row, 01x32
 K connector
 $ENDCMP
 #
