@@ -34,4 +34,10 @@ D LED, small symbol, alternativ symbol
 K led diode light-emitting-diode
 $ENDCMP
 #
+$CMP TLC5973
+D 3 Channel 12bit PWM constant currend LED Driver with single wire interface
+K LED current driver 12bit PWM
+F http://www.ti.com/lit/ds/symlink/tlc5973.pdf
+$ENDCMP
+#
 #End Doc Library
