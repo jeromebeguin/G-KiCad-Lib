@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Fuse
+D Fuse, generic
+K Fuse
+$ENDCMP
+#
+$CMP Fuse_Polarized
+D Fuse, generic
+K Fuse
+$ENDCMP
+#
+#End Doc Library

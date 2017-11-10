@@ -1,0 +1,64 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MOSFET_N
+K N-Channel MOSFET Logic-Level
+$ENDCMP
+#
+$CMP MOSFET_P
+K P-Channel MOSFET
+$ENDCMP
+#
+$CMP NPN_bce
+K Low Noise Audio NPN Transistor
+$ENDCMP
+#
+$CMP NPN_bec
+K Low Noise Audio NPN Transistor
+$ENDCMP
+#
+$CMP NPN_cbe
+K Low Noise Audio NPN Transistor
+$ENDCMP
+#
+$CMP NPN_ceb
+K Low Noise Audio NPN Transistor
+$ENDCMP
+#
+$CMP NPN_ebc
+K Low Noise Audio NPN Transistor
+$ENDCMP
+#
+$CMP NPN_ecb
+K Low Noise Audio NPN Transistor
+$ENDCMP
+#
+$CMP PNP_bce
+K PNP Transistor
+$ENDCMP
+#
+$CMP PNP_bec
+K PNP Transistor
+$ENDCMP
+#
+$CMP PNP_cbe
+K PNP Transistor
+$ENDCMP
+#
+$CMP PNP_ceb
+K PNP Transistor
+$ENDCMP
+#
+$CMP PNP_ebc
+K PNP Transistor
+$ENDCMP
+#
+$CMP PNP_ecb
+K PNP Transistor
+$ENDCMP
+#
+$CMP UJT
+D Unijunction transistor
+K UJT
+$ENDCMP
+#
+#End Doc Library

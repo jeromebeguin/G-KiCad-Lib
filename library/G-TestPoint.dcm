@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TEST
+D Testpoint, connection for test equipment
+K tp testpoint
+$ENDCMP
+#
+$CMP TP
+D test point
+K test point TP
+$ENDCMP
+#
+#End Doc Library
