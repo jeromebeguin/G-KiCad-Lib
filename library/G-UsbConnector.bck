@@ -17,6 +17,11 @@ D USB Type A connector
 K connector USB
 $ENDCMP
 #
+$CMP USB_B
+D USB Type B connector
+K connector USB
+$ENDCMP
+#
 $CMP USB_OTG
 D USB mini/micro connector
 K connector USB

@@ -1,0 +1,18 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP C
+D Unpolarized capacitor
+K cap capacitor
+$ENDCMP
+#
+$CMP CP1
+D Polarised capacitor
+K cap capacitor
+$ENDCMP
+#
+$CMP C_Variable
+D Variable capacitor
+K trimmer capacitor
+$ENDCMP
+#
+#End Doc Library

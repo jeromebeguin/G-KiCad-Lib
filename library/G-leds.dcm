@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP LED_ARGB
+D LED RGB, common anode (pin 1)
+K led rgb diode
+$ENDCMP
+#
 $CMP LED_Cree_XHP50_12V
 D XLamp® XHP50 LED, 12V footprint (all 4 LEDs in series)
 K led diode 
@@ -29,9 +34,35 @@ D LED RGB, common anode
 K led rgb diode
 $ENDCMP
 #
+$CMP LED_RAGB
+D LED RGB, common anode
+K led rgb diode
+$ENDCMP
+#
+$CMP LED_RCBG
+D LED RGB, Common Cathode
+K led rgb diode
+$ENDCMP
+#
+$CMP LED_RCGB
+D LED RGB, Common Cathode
+K led rgb diode
+$ENDCMP
+#
+$CMP LED_RGB
+D LED RGB 6 pins
+K led rgb diode
+$ENDCMP
+#
 $CMP LED_Small_ALT
 D LED, small symbol, alternativ symbol
 K led diode light-emitting-diode
+$ENDCMP
+#
+$CMP LP5521YQ
+D Three chanel RGBLed driver with internal memory and integrated charge pump
+K Driver LED RGB RGBW Texas
+F http://www.ti.com/lit/ds/symlink/lp5521.pdf
 $ENDCMP
 #
 $CMP TLC5973
