@@ -1,4 +1,4 @@
-(module Molex_Pico-Clasp_501331-0707_07x1.0mm (layer F.Cu) (tedit 5A5F8980)
+(module Molex_Pico-Clasp_501331-0707_07x1.0mm locked (layer F.Cu) (tedit 5A5F8980)
   (descr "1.00mm Pitch Pico-Clasp Wire-to-Board Header Surface Mount Single Row Vertical Tin Plated with Inner Positive Lock with Pick-and-Place Tape 7 Circuits")
   (tags "1.00mm Pitch Pico-Clasp Wire-to-Board Header Surface Mount Single Row Vertical Tin Plated with Inner Positive Lock with Pick-and-Place Tape 7 Circuits")
   (attr smd)

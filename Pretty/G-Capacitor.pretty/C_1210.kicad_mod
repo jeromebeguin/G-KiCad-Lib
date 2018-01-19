@@ -1,4 +1,4 @@
-(module G-C_1210 (layer F.Cu) (tedit 5A5880CE)
+(module C_1210 locked (layer F.Cu) (tedit 5A5880CE)
   (descr "Capacitor SMD 1210, reflow soldering, AVX (see smccp.pdf)")
   (tags "capacitor 1210")
   (attr smd)
@@ -20,9 +20,9 @@
   (fp_line (start -1 1.475) (end 1 1.475) (layer F.SilkS) (width 0.12))
   (pad 1 smd rect (at -1.5 0) (size 1 2.5) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 1.5 0) (size 1 2.5) (layers F.Cu F.Paste F.Mask))
-  (model Capacitors_SMD.3dshapes/C_1210.wrl
+  (model Capacitors_SMD.3dshapes/cap_1210.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 1 1 1))
+    (scale (xyz 0.393701 0.393701 0.393701))
     (rotate (xyz 0 0 0))
   )
 )
