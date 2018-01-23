@@ -1,4 +1,7 @@
-(module Molex_SlimStack_502426-2010 (layer F.Cu) (tedit 5A5F937A)
+(module Molex_SlimStack_502426-2010 locked (layer F.Cu) (tedit 5A5F937A)
+  (descr "Molex receptacle SlimStack 502426-2010")
+  (tags "Molex receptacle SlimStack 502426-2010")
+  (attr smd)
   (fp_text reference REF** (at -5.25 0 90) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

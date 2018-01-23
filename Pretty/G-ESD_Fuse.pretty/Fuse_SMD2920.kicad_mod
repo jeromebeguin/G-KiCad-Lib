@@ -1,4 +1,4 @@
-(module Fuse_SMD2920 (layer F.Cu) (tedit 5A5F3D78)
+(module Fuse_SMD2920 locked (layer F.Cu) (tedit 5A5F3D78)
   (descr "Fuse, 2920 chip size")
   (tags "Fuse SMD2920")
   (attr smd)
@@ -23,7 +23,7 @@
   (fp_line (start -3.556 3.048) (end 3.556 3.048) (layer F.SilkS) (width 0.15))
   (pad 1 smd rect (at -3.7 0 90) (size 5.6 2.3) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 3.7 0 90) (size 5.6 2.3) (layers F.Cu F.Paste F.Mask))
-  (model "C:/Users/Antonin Graf/Documents/GitHub/G-KiCad-Lib/3dshapes/Resistors_SMD.3dshapes/Fuse_2920.wrl"
+  (model ESD_Fuse.3dshapes/FUSE-2920.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.393701 0.393701 0.393701))
     (rotate (xyz 0 90 0))

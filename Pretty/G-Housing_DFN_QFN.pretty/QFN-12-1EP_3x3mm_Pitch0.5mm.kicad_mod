@@ -1,4 +1,4 @@
-(module QFN-12-1EP_3x3mm_Pitch0.5mm (layer F.Cu) (tedit 5A60ABBE)
+(module QFN-12-1EP_3x3mm_Pitch0.5mm locked (layer F.Cu) (tedit 5A60ABBE)
   (descr "UD Package; 12-Lead Plastic QFN (3mm x 3mm); (see Linear Technology QFN_12_ 05-08-1855.pdf)")
   (tags "QFN 0.5")
   (attr smd)

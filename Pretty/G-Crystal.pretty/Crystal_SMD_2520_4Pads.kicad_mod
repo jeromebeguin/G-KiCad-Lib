@@ -29,9 +29,9 @@
   (pad 3 smd rect (at 0.925 0.775) (size 1 0.9) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 0.925 -0.775) (size 1 0.9) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at -0.925 -0.775) (size 1 0.9) (layers F.Cu F.Paste F.Mask))
-  (model Crystals.3dshapes/Crystal_SMD_2520_4Pads.wrl
-    (at (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+  (model Crystal_SMD.3dshapes/Crystal_SMD_2520_4Pads.wrl
+    (at (xyz -0.033 0.023 0))
+    (scale (xyz 0.393701 0.393701 0.393701))
+    (rotate (xyz 270 0 0))
   )
 )

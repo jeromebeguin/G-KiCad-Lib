@@ -1,4 +1,4 @@
-(module USON-20_2x4mm_Pitch0.4mm (layer F.Cu) (tedit 5A60CA2A)
+(module USON-20_2x4mm_Pitch0.4mm locked (layer F.Cu) (tedit 5A60CA2A)
   (descr "USON-20 2x4mm Pitch 0.4mm")
   (tags "USON-20 2x4mm Pitch 0.4mm")
   (attr smd)
