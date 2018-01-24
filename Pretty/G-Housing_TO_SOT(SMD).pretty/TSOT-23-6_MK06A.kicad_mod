@@ -1,4 +1,4 @@
-(module TSOT-23-6_MK06A locked (layer F.Cu) (tedit 5A60C829)
+(module TSOT-23-6_MK06A (layer F.Cu) (tedit 5A60C829)
   (descr "6-pin TSOT23 package, http://cds.linear.com/docs/en/packaging/SOT_6_05-08-1636.pdf")
   (tags "TSOT-23-6 MK06A TSOT-6")
   (attr smd)
