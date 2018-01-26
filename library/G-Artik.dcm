@@ -1,3 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP Artik10-module
+D Samsung Artik 1020 Quad cortex A15 quad cortex A7 wifi bluetooth zigbee ARM Mali GPU MIPI 2GB RAM 16GB flash
+K Samsung Artik 1020 Quad cortex A15 quad cortex A7 wifi bluetooth zigbee ARM Mali GPU MIPI 2GB RAM 16GB flash
+F https://www.artik.io/modules/artik-1020/
+$ENDCMP
+#
 #End Doc Library

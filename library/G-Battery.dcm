@@ -1,3 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP Battery_Cell
+D Battery Cell RTC
+K Battery Cell RTC
+$ENDCMP
+#
 #End Doc Library

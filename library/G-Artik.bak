@@ -6,15 +6,8 @@ EESchema-LIBRARY Version 2.3
 DEF Artik10-module U 0 40 Y Y 13 L N
 F0 "U" -600 200 50 H V L CNN
 F1 "Artik10-module" -600 100 50 H V L CNN
-F2 "Gamaya:Artik10" 0 300 60 H I C CNN
+F2 "Gamaya:Artik10" 1750 100 60 H I C CNN
 F3 "" -100 -1800 60 H I C CNN
-F4 "Digikey" -50 400 60 H I R CNN "Distributor"
-F5 "2x 255-5136-6-ND ; 2x  AXT340224CT-ND" 50 400 60 H I L CNN "Distributor Part N°"
-F6 "Panasonic" -50 500 60 H I R CNN "Manufacturer"
-F7 "2x AXT380224; 2x AXT340224" 50 500 60 H I L CNN "Manufacturer Part N°"
-$FPLIST
- Artik*10
-$ENDFPLIST
 DRAW
 T 0 600 100 50 0 1 0 Power/Reset Normal 0 R C
 T 0 600 100 50 0 2 0 UARTS Normal 0 R C

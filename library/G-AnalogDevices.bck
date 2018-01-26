@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADM3101E-ACPZ
+D +/- 15kV ESD Protected 3.3V single channel RS-232 Line Driver Receiver
+K +/- 15kV ESD Protected 3.3V single channel RS-232 Line Driver Receiver
+F http://www.analog.com/media/en/technical-documentation/data-sheets/ADM3101E.pdf
+$ENDCMP
+#
+#End Doc Library

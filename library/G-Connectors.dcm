@@ -1,18 +1,78 @@
 EESchema-DOCLIB  Version 2.0
 #
 $CMP CONN_01X02
+D Connector, single row, 01x02
+K Connector single row 01x02
+$ENDCMP
+#
+$CMP CONN_01X04
 D Connector, single row, 01x04
-K connector
+K Connector single row 01x04
+$ENDCMP
+#
+$CMP CONN_01X05
+D Connector, single row, 01x05
+K Connector single row 01x05
+$ENDCMP
+#
+$CMP CONN_01X07
+D Connector, single row, 01x07
+K Connector single row 01x07
 $ENDCMP
 #
 $CMP CONN_01X08
+D Connector, single row, 01x08
+K Connector single row 01x08
+$ENDCMP
+#
+$CMP CONN_01X09
 D Connector, single row, 01x09
-K connector
+K Connector single row 01x09
+$ENDCMP
+#
+$CMP CONN_01X10
+D Connector, single row, 01x10
+K Connector single row 01x10
+$ENDCMP
+#
+$CMP CONN_01X11
+D Connector, single row, 01x11
+K Connector single row 01x11
+$ENDCMP
+#
+$CMP CONN_01X15
+D Connector, single row, 01x15
+K Connector single row 01x15
 $ENDCMP
 #
 $CMP CONN_01X32
 D Connector, single row, 01x32
-K connector
+K Connector single row 01x32
+$ENDCMP
+#
+$CMP CONN_01X33
+D Connector, single row, 01x33
+K Connector single row 01x33
+$ENDCMP
+#
+$CMP CONN_02X05
+D Connector, double row, 02x05
+K Connector double row 02x05
+$ENDCMP
+#
+$CMP CONN_02X07
+D Connector, double row, 02x07
+K Connector double row 02x07
+$ENDCMP
+#
+$CMP CONN_02X08
+D Connector, double row, 02x08
+K Connector double row 02x08
+$ENDCMP
+#
+$CMP CONN_02X10
+D Connector, double row, 02x10
+K Connector double row 02x10
 $ENDCMP
 #
 #End Doc Library

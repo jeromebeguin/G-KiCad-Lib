@@ -6,8 +6,15 @@ EESchema-LIBRARY Version 2.3
 DEF AB0805 U 0 40 Y Y 1 F N
 F0 "U" -500 400 50 H V C CNN
 F1 "AB0805" 0 150 50 H V C CNN
-F2 "G-Housings_DFN_QFN:QFN-16-1EP_3x3mm_Pitch0.5mm" 50 -850 50 H I C CNN
-F3 "" 0 0 50 H I C CNN
+F2 "G-Housing_DFN_QFN:QFN-16-1EP_3x3mm_Pitch0.5mm" 0 -700 50 H I C CNN
+F3 "" -500 400 50 H I C CNN
+F4 "Mouser" -200 -800 60 H I C CNN "Distributor"
+F5 "815-AB0805-T3" 500 -800 60 H I C CNN "Distributor Part N°"
+F6 "Abracon" -250 -900 60 H I C CNN "Manufacturer"
+F7 "AB0805-T3" 350 -900 60 H I C CNN "Manufacturer Part N°"
+$FPLIST
+ QFN*1EP*3x3mm*Pitch0.5mm
+$ENDFPLIST
 DRAW
 S -400 400 400 -400 0 1 10 f
 X NC 1 600 200 200 L 50 50 1 1 N N
@@ -35,8 +42,15 @@ ENDDEF
 DEF AB0815 U 0 40 Y Y 1 F N
 F0 "U" -500 400 50 H V C CNN
 F1 "AB0815" 0 100 50 H V C CNN
-F2 "" 0 0 50 H I C CNN
-F3 "" 0 0 50 H I C CNN
+F2 "G-Housing_DFN_QFN:QFN-16-1EP_3x3mm_Pitch0.5mm" 0 -750 50 H I C CNN
+F3 "" -500 400 50 H I C CNN
+F4 "Mouser" -300 -850 60 H I C CNN "Distributor"
+F5 "815-AB0815-T3" 450 -850 60 H I C CNN "Distributor Part N°"
+F6 "Abracon" -300 -950 60 H I C CNN "Manufacturer"
+F7 "AB0815-T3" 300 -950 60 H I C CNN "Manufacturer Part N°"
+$FPLIST
+ QFN*1EP*3x3mm*Pitch0.5mm
+$ENDFPLIST
 DRAW
 S -400 400 400 -400 0 1 10 f
 X NC 1 600 200 200 L 50 50 1 1 N N
