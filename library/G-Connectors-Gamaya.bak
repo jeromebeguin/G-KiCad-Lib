@@ -1,33 +1,6 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
 #
-# CONN_Molex_to_LEMO_Drone
-#
-DEF CONN_Molex_to_LEMO_Drone J 0 40 Y Y 1 F N
-F0 "J" 0 600 50 H V C CNN
-F1 "CONN_Molex_to_LEMO_Drone" 500 0 50 V V C CNN
-F2 "G-Connector_Molex:Molex_Pico-Clasp_501331-1107_11x1.0mm" 200 -650 50 H I C CNN
-F3 "" 0 600 50 H V C CNN
-F4 "Mouser" 150 -750 50 H I R CNN "Distributor"
-F5 "538-501331-1107" 250 -750 50 H I L CNN "Distributor Part N°"
-F6 "Molex" 150 -850 50 H I R CNN "Manufacturer"
-F7 "501331-1107" 250 -850 50 H I L CNN "Manufacturer Part N°"
-DRAW
-S -50 550 450 -550 0 1 0 N
-X GND 1 -200 500 150 R 50 50 1 1 P
-X +12V_IN 2 -200 400 150 R 50 50 1 1 P
-X +12V_IN 3 -200 300 150 R 50 50 1 1 P
-X GND 4 -200 200 150 R 50 50 1 1 P
-X TTL-TX 5 -200 100 150 R 50 50 1 1 P
-X TTL-RX 6 -200 0 150 R 50 50 1 1 P
-X RS232-TX 7 -200 -100 150 R 50 50 1 1 P
-X RS232-RX 8 -200 -200 150 R 50 50 1 1 P
-X TRIG_OUT 9 -200 -300 150 R 50 50 1 1 P
-X TRIG_IN 10 -200 -400 150 R 50 50 1 1 P
-X +5V_OUT 11 -200 -500 150 R 50 50 1 1 P
-ENDDRAW
-ENDDEF
-#
 # Conn-Lepton-board-to-Flex
 #
 DEF Conn-Lepton-board-to-Flex J 0 1 Y Y 1 F N

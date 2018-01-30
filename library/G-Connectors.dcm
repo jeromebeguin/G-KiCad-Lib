@@ -75,4 +75,9 @@ D Connector, double row, 02x10
 K Connector double row 02x10
 $ENDCMP
 #
+$CMP Conn_XIG-502244-1530
+D Connector, single row, 01x15
+K Connector single row 01x15
+$ENDCMP
+#
 #End Doc Library

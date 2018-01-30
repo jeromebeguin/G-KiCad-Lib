@@ -70,4 +70,9 @@ D Connector, double row, 02x08
 K Connector double row 02x08
 $ENDCMP
 #
+$CMP CONN_02X10
+D Connector, double row, 02x10
+K Connector double row 02x10
+$ENDCMP
+#
 #End Doc Library
