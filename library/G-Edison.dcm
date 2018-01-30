@@ -1,7 +1,23 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP EDISON_CONNECTOR
+D Intel Edison connector
+K Intel Edison connector
+F https://www.intel.com/content/dam/support/us/en/documents/edison/sb/edison-module_HG_331189.pdf
+$ENDCMP
+#
+$CMP EDISON_CONNECTOR_FULLHEADER
+D Edison header 
+K Edison header 
+$ENDCMP
+#
 $CMP EDISON_CONNECTOR_FULLMOUNTING_HOLES
 F https://www.intel.com/content/dam/support/us/en/documents/edison/sb/edison-module_HG_331189.pdf
+$ENDCMP
+#
+$CMP EDISON_CONNECTOR_FULLSOCKET
+D Intel edison Socket connector on which connect the edison
+K Intel Edison socket connector
 $ENDCMP
 #
 #End Doc Library

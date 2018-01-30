@@ -6,8 +6,12 @@ EESchema-LIBRARY Version 2.3
 DEF XR20M1172 U 0 40 Y Y 1 F N
 F0 "U" -550 1050 50 H V L CNN
 F1 "XR20M1172" -550 950 50 H V L CNN
-F2 "Housings_DFN_QFN:QFN-32-1EP_5x5mm_Pitch0.5mm" 100 950 50 H I L CNN
+F2 "G-Housing_DFN_QFN:QFN-32-1EP_5x5mm_Pitch0.5mm" 0 -1150 50 H I L CNN
 F3 "" -1700 -50 50 H I C CNN
+F4 "Mouser" -50 -1250 60 H I R CNN "Distributor"
+F5 "701-XR20M1172IL32-F" 50 -1250 60 H I L CNN "Distributor Part N°"
+F6 "Exar" -50 -1350 60 H I R CNN "Manufacturer"
+F7 "XR20M1172IL32-F" 50 -1350 60 H I L CNN "Manufacturer Part N°"
 $FPLIST
  QFN*5x5mm*Pitch0.5mm*
 $ENDFPLIST

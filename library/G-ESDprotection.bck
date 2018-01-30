@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ESD_1ch_bid
+D ESD suppressor bidirectional 1 channel
+K ESD suppressor bidirectional 1 channel
+$ENDCMP
+#
 $CMP IP3319CX6
 D Single channel common mode filter with integrated ESD protection network
 K common mode filter ESD protection
