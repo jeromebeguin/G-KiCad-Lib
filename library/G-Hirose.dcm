@@ -1,8 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
 $CMP Hiosre_SD_Card
-D SD Card Reader
-K connector SD Hirose
+D SD Card Reader Hirose DM1AA-SF-PEJ(21)
+K SD Card Reader Hirose DM1AA-SF-PEJ(21)
 F http://www.mouser.com/ds/2/185/DM1_catalog-939166.pdf
 $ENDCMP
 #

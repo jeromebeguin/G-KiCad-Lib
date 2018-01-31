@@ -1,13 +1,13 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP Ferrite_Bead
-D Ferrite bead
-K L ferite bead inductor filter
-$ENDCMP
-#
 $CMP R
 D Resistor
 K r res resistor
+$ENDCMP
+#
+$CMP R_PHOTO
+D Photoresistor, light sensitive resistor, LDR
+K resistor variable light opto LDR
 $ENDCMP
 #
 $CMP R_Variable

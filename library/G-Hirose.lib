@@ -1,40 +1,20 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
 #
-# CONN_COAXIAL
-#
-DEF CONN_COAXIAL J 0 40 Y N 1 F N
-F0 "J" 10 120 50 H V C CNN
-F1 "CONN_COAXIAL" 115 0 50 V V C CNN
-F2 "" 0 0 50 H I C CNN
-F3 "" 0 0 50 H I C CNN
-$FPLIST
- *BNC*
- *SMA*
- *SMB*
- *SMC*
- *Cinch*
-$ENDFPLIST
-DRAW
-A -2 0 71 1636 0 0 1 10 N -70 20 70 0
-A -1 0 71 0 -1638 0 1 10 N 70 0 -70 -20
-C 0 0 20 0 1 8 N
-P 2 0 1 0 -50 0 -20 0 N
-P 2 0 1 0 0 -100 0 -70 N
-X In 1 -150 0 100 R 50 50 1 1 P
-X Ext 2 0 -200 100 U 50 50 1 1 P
-ENDDRAW
-ENDDEF
-#
 # Hiosre_SD_Card
 #
 DEF Hiosre_SD_Card J 0 40 Y Y 1 F N
-F0 "J" -650 550 50 H V C CNN
-F1 "Hiosre_SD_Card" 600 600 50 H V C CNN
-F2 "G-Connectors_Hirose:SD_Card_Receptacle_Hirose_DM1AA-SF-PEJ" 450 -600 50 H I C CNN
+F0 "J" -750 550 50 H V C CNN
+F1 "Hiosre_SD_Card" 350 550 50 H V C CNN
+F2 "G-Connector_Hirose:SD_Card_Receptacle_Hirose_DM1AA-SF-PEJ" 450 -600 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "Mouser" -50 -700 60 H I R CNN "Distributor"
+F5 "798-DM1AA-SF-PEJ21" 50 -700 60 H I L CNN "Distributor Part N°"
+F6 "Hirose" -50 -800 60 H I R CNN "Manufacturer"
+F7 "DM1AA-SF-PEJ(21)" 50 -800 60 H I L CNN "Manufacturer Part N°"
 $FPLIST
- SD_Card_Receptacle
+ *SD*Card*Receptacle*
+ *DM1AA*
 $ENDFPLIST
 DRAW
 S -350 -375 -250 -425 0 1 0 F

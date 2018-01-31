@@ -6,8 +6,12 @@ EESchema-LIBRARY Version 2.3
 DEF FT232RL U 0 40 Y Y 1 F N
 F0 "U" -650 900 50 H V L CNN
 F1 "FT232RL" 400 900 50 H V L CNN
-F2 "Housings_SSOP:SSOP-28_5.3x10.2mm_Pitch0.65mm" 0 0 50 H I C CNN
+F2 "G-Housing_SSOP:SSOP-28_5.3x10.2mm_Pitch0.65mm" 0 -1100 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "Mouser" -50 -1200 50 H I R CNN "Distributor"
+F5 "895-FT232RL" 50 -1200 50 H I L CNN "Distributor Part N°"
+F6 "FTDI" -50 -1300 50 H I R CNN "Manufacturer"
+F7 "FT232RL" 50 -1300 50 H I L CNN "Manufacturer Part N°"
 $FPLIST
  SSOP*5.3x10.2mm*Pitch0.65mm*
 $ENDFPLIST
@@ -47,8 +51,12 @@ ENDDEF
 DEF FT234XD U 0 40 Y Y 1 F N
 F0 "U" -350 550 50 H V C CNN
 F1 "FT234XD" 300 550 50 H V C CNN
-F2 "Housings_DFN_QFN:DFN-12-1EP_3x3mm_Pitch0.45mm" 0 -800 50 H I C CNN
+F2 "G-Housing_DFN_QFN:DFN-12-1EP_3x3mm_Pitch0.45mm" 0 -800 50 H I C CNN
 F3 "" 0 100 50 H I C CNN
+F4 "Mouser" -50 -900 50 H I R CNN "Distributor"
+F5 "895-FT234XD" 50 -900 50 H I L CNN "Distributor Part N°"
+F6 "FTDI" -50 -1000 50 H I R CNN "Manufacturer"
+F7 "FT234XD" 50 -1000 50 H I L CNN "Manufacturer Part N°"
 $FPLIST
  DFN*3x3mm*Pitch0.45mm*
 $ENDFPLIST
