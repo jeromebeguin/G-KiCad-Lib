@@ -6,10 +6,14 @@ EESchema-LIBRARY Version 2.3
 DEF 24AA02 U 0 30 Y Y 1 F N
 F0 "U" -250 250 50 H V C CNN
 F1 "24AA02" 200 250 50 H V C CNN
-F2 "TO_SOT_Packages_SMD:SOT-23-5" 400 250 50 H I L CNN
+F2 "G-Housing_TO_SOT(SMD):SOT-23-5" 0 -400 50 H I C CNN
 F3 "" 0 -100 50 H V C CNN
+F4 "Mouser" -50 -500 50 H I R CNN "Distributor"
+F5 "579-24AA02T-I/OT" 50 -500 50 H I L CNN "Distributor Part N°"
+F6 "Microchip" -50 -600 50 H I R CNN "Manufacturer"
+F7 "24AA02T-I/OT" 50 -600 50 H I L CNN "Manufacturer Part N°"
 $FPLIST
- SOT-23*
+ *SOT*23*
 $ENDFPLIST
 DRAW
 X GND 2 0 -300 100 U 50 50 0 0 W
@@ -26,8 +30,12 @@ ENDDEF
 DEF ATAES132A U 0 40 Y Y 1 F N
 F0 "U" 100 450 50 H V C CNN
 F1 "ATAES132A" 250 350 50 H V C CNN
-F2 "" 0 425 50 H I C CNN
+F2 "G-Housing_DFN_QFN:DFN-8-1EP_3x2mm_Pitch0.5mm" 0 -500 50 H I C CNN
 F3 "" 100 525 50 H I C CNN
+F4 "Mouser" -50 -600 50 H I R CNN "Distributor"
+F5 "579-24AA02T-I/OT" 50 -600 50 H I L CNN "Distributor Part N°"
+F6 "Microchip" -50 -700 50 H I R CNN "Manufacturer"
+F7 "24AA02T-I/OT" 50 -700 60 H I L CNN "Manufacturer Part N°"
 ALIAS ATAES132A-EQ ATAES132A-ER
 $FPLIST
  SOIC*3.9x4.9mm*Pitch1.27mm*
@@ -51,8 +59,12 @@ ENDDEF
 DEF MIC2039-AYMT U 0 40 Y Y 1 F N
 F0 "U" -250 450 50 H V C CNN
 F1 "MIC2039-AYMT" 0 350 50 H V C CNN
-F2 "Housings_DFN_QFN:DFN-6-1EP_2x2mm_Pitch0.65mm" 0 -550 50 H I C CNN
+F2 "G-Housing_DFN_QFN:DFN-6-1EP_2x2mm_Pitch0.65mm" 0 -550 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "Mouser" -50 -650 50 H I R CNN "Distributor"
+F5 "998-MIC2039AYMT" 50 -650 50 H I L CNN "Distributor Part N°"
+F6 "Microchip" -50 -750 50 H I R CNN "Manufacturer"
+F7 "MIC2039AYMT" 50 -750 50 H I L CNN "Manufacturer Part N°"
 $FPLIST
  DFN*2x2mm*Pitch0.65mm*EP*
 $ENDFPLIST
@@ -73,8 +85,12 @@ ENDDEF
 DEF USB2514B_Bi U 0 40 Y Y 1 F N
 F0 "U" -700 1600 50 H V C CNN
 F1 "USB2514B_Bi" -800 1500 50 H V C CNN
-F2 "Housings_DFN_QFN:QFN-36-1EP_6x6mm_Pitch0.5mm" 1300 -1500 50 H I C CNN
+F2 "G-Housing_DFN_QFN:QFN-36-1EP_6x6mm_Pitch0.5mm" 0 -1600 50 H I C CNN
 F3 "" 1600 -1600 50 H I C CNN
+F4 "Mouser" -50 -1700 50 H I R CNN "Distributor"
+F5 "886-USB2514BI-AEZG" 50 -1700 50 H I L CNN "Distributor Part N°"
+F6 "Microchip" -50 -1800 50 H I R CNN "Manufacturer"
+F7 "USB2514BI-AEZG" 50 -1800 50 H I L CNN "Manufacturer Part N°"
 $FPLIST
  QFN*6x6mm*Pitch0.5mm*
 $ENDFPLIST
