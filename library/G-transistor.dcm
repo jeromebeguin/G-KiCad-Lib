@@ -1,6 +1,17 @@
 EESchema-DOCLIB  Version 2.0
 #
 $CMP MOSFET_N
+D N-Channel MOSFET Logic-Level 213
+K N-Channel MOSFET Logic-Level
+$ENDCMP
+#
+$CMP MOSFET_N_GSD
+D N-Channel MOSFET Logic-Level Gate-Source-Drain
+K N-Channel MOSFET Logic-Level
+$ENDCMP
+#
+$CMP MOSFET_N_SGD
+D N-Channel MOSFET Logic-Level Source-Gate-Drain
 K N-Channel MOSFET Logic-Level
 $ENDCMP
 #

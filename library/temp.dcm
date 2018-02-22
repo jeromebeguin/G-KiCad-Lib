@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RE1C002UN
+D Nch 20V 200mA Signal MOSFET
+K Transistor MOS MOSFET Nch Rohm
+F http://www.rohm.com/web/global/datasheet/RE1C002UN/re1c002untcl-e
+$ENDCMP
+#
+#End Doc Library
