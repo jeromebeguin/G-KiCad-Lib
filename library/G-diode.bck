@@ -42,12 +42,6 @@ K diode
 F http://www.vishay.com/docs/88503/1n4001.pdf
 $ENDCMP
 #
-$CMP LL41
-D 100V 0.1A Small Signal Schottky diode, MiniMELF
-K diode Schottky
-F http://www.vishay.com/docs/85659/bat41.pdf
-$ENDCMP
-#
 $CMP LL4148
 D 100V 0.15A standard switching diode, MiniMELF
 K diode
