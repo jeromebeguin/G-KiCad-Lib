@@ -517,10 +517,17 @@ ENDDEF
 # LP5521YQ
 #
 DEF LP5521YQ U 0 40 Y Y 1 F N
-F0 "U" -600 700 50 H V C CNN
+F0 "U" -450 750 50 H V C CNN
 F1 "LP5521YQ" 0 -200 50 H V C CNN
-F2 "" 0 200 50 H I C CNN
+F2 "G-Housing_DFN_QFN:WQFN-24-1EP_4x5mm_Pitch0.5mm" 0 -1050 50 H I C CNN
 F3 "" 0 200 50 H I C CNN
+F4 "Mouser" -50 -1150 50 H I R CNN "Distributor"
+F5 "926-LP5521YQ" 50 -1150 50 H I L CNN "Distributor Part N°"
+F6 "Texas Instruments" -50 -1250 50 H I R CNN "Manufacturer"
+F7 "LP5521YQ" 50 -1250 50 H I L CNN "Manufacturer Part N°"
+$FPLIST
+ WQFN*5x4mm*
+$ENDFPLIST
 DRAW
 T 0 50 -300 50 0 0 0 RGBW~LED~Driver Normal 0 C C
 S 500 -700 -500 700 0 1 10 f

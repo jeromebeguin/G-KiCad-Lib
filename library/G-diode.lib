@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF BAT54A D 0 40 Y Y 1 F N
 F0 "D" 25 -150 50 H V L CNN
 F1 "BAT54A" 0 150 50 H V C CNN
-F2 "TO_SOT_Packages_SMD:SOT-23" 0 -300 50 H I C CNN
+F2 "G-Housing_TO_SOT(SMD):SOT-23" 0 -300 50 H I C CNN
 F3 "" -120 0 50 H I C CNN
 F4 "Mouser" -50 -400 50 H I R CNN "Distributor"
 F5 "621-BAT54A-F" 50 -400 50 H I L CNN "Distributor Part N°"
