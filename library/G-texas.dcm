@@ -168,6 +168,12 @@ K 1A low-dropout (LDO) regulator with reverse current protection
 F http://www.ti.com/lit/ds/symlink/tps737.pdf
 $ENDCMP
 #
+$CMP TPS73725DCQ
+D 1A low-dropout (LDO) regulator with reverse current protection fixed version
+K 1A low-dropout (LDO) regulator with reverse current protection fixed version
+F http://www.ti.com/lit/ds/symlink/tps737.pdf
+$ENDCMP
+#
 $CMP TUSB4041I
 D four port USB 2.0 Hub
 K USB2.0 hub
