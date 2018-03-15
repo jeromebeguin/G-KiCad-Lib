@@ -1,0 +1,15 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# Gamay-logo-10mm
+#
+DEF Gamay-logo-10mm LOGO 0 0 N N 1 F N
+F0 "LOGO" 0 50 60 H I C CNN
+F1 "Gamay-logo-10mm" 0 -50 60 H V C CNN
+F2 "G-Logo:Gamaya-logo" -100 -50 60 H I C CNN
+F3 "" 0 0 60 H I C CNN
+DRAW
+ENDDRAW
+ENDDEF
+#
+#End Library
