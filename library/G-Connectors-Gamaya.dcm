@@ -21,4 +21,9 @@ K Molex 1050281001 socket for flir lepton camera
 F http://www.flir.com/uploadedFiles/OEM/Products/LWIR-Cameras/Lepton/FLIR-Lepton-3-Datasheet-EN.pdf
 $ENDCMP
 #
+$CMP Vivaldi_to_flex_MU9_LEPTON
+D connector on vivaldi board to flex for MU9PC and lepton camera
+K Connector vivaldi MU9PC LEPTON Slimtack Molex 502426-2010
+$ENDCMP
+#
 #End Doc Library

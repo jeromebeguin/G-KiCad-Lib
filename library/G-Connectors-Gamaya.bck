@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP CONN_Molex_to_LEMO_Drone
+D Connector Molex 501331-1107 for LEMO to Drone
+K Connector Molex 501331-1107 for LEMO to Drone
+$ENDCMP
+#
 $CMP Conn-Lepton-board-to-Flex
 D Connector Lepton board Lucio to flex, slimstack 502426-1410
 K Connector Lepton board Lucio to flex slimstack 502426-1410
