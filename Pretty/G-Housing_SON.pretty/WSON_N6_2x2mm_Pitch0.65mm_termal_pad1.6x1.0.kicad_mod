@@ -35,7 +35,7 @@
   (pad 1 smd rect (at -1.075 -0.65 270) (size 0.3 0.7) (layers F.Cu F.Paste F.Mask)
     (solder_mask_margin 0.03))
   (pad 7 smd rect (at 0 0 270) (size 1.6 1) (layers F.Cu F.Paste F.Mask))
-  (model "/Housings_SON.3dshapes/Wson-6-drv(TI).wrl"
+  (model "Housings_SON.3dshapes/Wson-6-drv(TI).wrl"
     (at (xyz 0 0 0))
     (scale (xyz 0.393701 0.393701 0.393701))
     (rotate (xyz 0 0 90))
