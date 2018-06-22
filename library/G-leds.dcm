@@ -54,6 +54,11 @@ D LED RGB 6 pins
 K led rgb diode
 $ENDCMP
 #
+$CMP LED_RGBC
+D LED RGB, Common Cathode
+K led rgb diode
+$ENDCMP
+#
 $CMP LED_Small_ALT
 D LED, small symbol, alternativ symbol
 K led diode light-emitting-diode

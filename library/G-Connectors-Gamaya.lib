@@ -1,6 +1,27 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
 #
+# CONN_Molex_USB
+#
+DEF CONN_Molex_USB J 0 40 Y Y 1 F N
+F0 "J" 50 300 50 H V C CNN
+F1 "CONN_Molex_USB" 550 0 50 V V C CNN
+F2 "G-Connector_Molex:Molex_Pico-Clasp_501331-0507_05x1.0mm" 150 -400 50 H I C CNN
+F3 "" 50 300 50 H V C CNN
+F4 "Mouser" 100 -500 50 H I R CNN "Distributor"
+F5 "538-501331-0507" 200 -500 50 H I L CNN "Distributor Part N°"
+F6 "Molex" 100 -600 50 H I R CNN "Manufacturer"
+F7 "501331-0507" 200 -600 50 H I L CNN "Manufacturer Part N°"
+DRAW
+S 0 250 500 -250 0 1 10 f
+X USB_VBUS 1 -150 200 150 R 50 50 1 1 P
+X USB_DN 2 -150 100 150 R 50 50 1 1 P
+X USB_DP 3 -150 0 150 R 50 50 1 1 P
+X GND 4 -150 -100 150 R 50 50 1 1 P
+X CAM_TRIG 5 -150 -200 150 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 # CONN_Molex_to_LEMO_Drone
 #
 DEF CONN_Molex_to_LEMO_Drone J 0 40 Y Y 1 F N

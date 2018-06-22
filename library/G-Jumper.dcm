@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Jumper-Dual-12C-23O
+D Dual Jumper, 12close, 23 open
+K jumper bridge link
+$ENDCMP
+#
+#End Doc Library
