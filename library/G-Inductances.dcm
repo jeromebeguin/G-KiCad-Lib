@@ -20,4 +20,8 @@ D Inductor with Iron Core
 K inductor choke coil reactor magnetic
 $ENDCMP
 #
+$CMP L_Small
+D Inductor
+$ENDCMP
+#
 #End Doc Library
